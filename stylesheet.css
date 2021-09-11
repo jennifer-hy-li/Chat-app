@@ -12,7 +12,7 @@
 .bordertitle{
   border: 3px dashed black;
   padding: 30px;
-  margin-right: 1139px;
+  display: inline;
 }
 
 .bubble{
