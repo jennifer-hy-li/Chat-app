@@ -1,7 +1,9 @@
-.style{
-  color: #8cabed;
+.style-it {
+  font-family: 'Trebuchet MS', sans-serif;
+  color:#8cabed;
 }
-.mccowie-pic{
-  width: 100px,
-  height: 100px;
+.mccowie-pic {
+  height: 300px;
+  width: 350px;
+  border-radius: 50%;
 }
