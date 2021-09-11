@@ -6,4 +6,11 @@
   height: 300px;
   width: 350px;
   border-radius: 50%;
+  border: 5px solid #57ebde;
+}
+
+.bordertitle{
+  border: 3px dashed black;
+  padding: 30px;
+  margin-right: 1139px;
 }
