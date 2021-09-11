@@ -39,7 +39,7 @@
 #heart::before, #heart::after {
   content: "";
   position: absolute;
-  top: 0;
+  top: 25px;
   width: 26px;
   height: 40px;
   border-radius: 25px 25px 0 0;
